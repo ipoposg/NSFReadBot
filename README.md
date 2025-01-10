@@ -24,12 +24,12 @@ This bot is accessible on Telegram via [@nsfbook_bot](https://t.me/nsfbook_bot).
 
 2. Navigate to the project directory:
 
-	cd NSFReadBot
+	```cd NSFReadBot```
 
 
 3. Install the required dependencies:
 
-	pip install -r requirements.txt
+	```pip install -r requirements.txt```
 
 
 4. Replace the placeholder in the script with your Telegram bot token:
@@ -39,23 +39,23 @@ This bot is accessible on Telegram via [@nsfbook_bot](https://t.me/nsfbook_bot).
 
 5. Run the bot:
 
-	python main.py
+	```python main.py```
 
 
 
-Usage (For Users)
+## Usage (For Users)
 	1.	Access the bot on Telegram: @nsfbook_bot.
 	2.	Browse the available selection of books.
 	3.	Select a book and begin reading through notifications.
 	4.	Adjust the word chunk size if desired to customise your reading experience.
 
-Folder Structure
+## Folder Structure
 	•	text_files/: Contains book files available for users.
 	•	user_data.json: Stores user-specific data such as progress and preferences.
 
-Dependencies
+## Dependencies
 	•	Python 3.9+
-	•	python-telegram-bot (Refer to requirements.txt for the complete dependency list).
+	•	python-telegram-bot
 
 ## Contributing
 
