@@ -22,24 +22,24 @@ This bot is accessible on Telegram via [@nsfbook_bot](https://t.me/nsfbook_bot).
 
   ``` git clone https://github.com/ipoposg/NSFReadBot.git ```
 
-	2.	Navigate to the project directory:
+2. Navigate to the project directory:
 
-cd NSFReadBot
-
-
-	3.	Install the required dependencies:
-
-pip install -r requirements.txt
+	cd NSFReadBot
 
 
-	4.	Replace the placeholder in the script with your Telegram bot token:
+3. Install the required dependencies:
 
-BOT_TOKEN = "your-telegram-bot-token"
+	pip install -r requirements.txt
 
 
-	5.	Run the bot:
+4. Replace the placeholder in the script with your Telegram bot token:
 
-python main.py
+```BOT_TOKEN = "your-telegram-bot-token"```
+
+
+5. Run the bot:
+
+	python main.py
 
 
 
