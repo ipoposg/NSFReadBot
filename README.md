@@ -19,8 +19,8 @@ This bot is accessible on Telegram via [@nsfbook_bot](https://t.me/nsfbook_bot).
 
 ## Installation (For Developers)
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/ipoposg/NSFReadBot.git
+
+  ``` git clone https://github.com/ipoposg/NSFReadBot.git ```
 
 	2.	Navigate to the project directory:
 
