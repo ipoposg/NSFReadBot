@@ -12,7 +12,7 @@ from telegram.ext import (
 )
 
 # Global token
-BOT_TOKEN = "7217648465:AAHNsGpwZ36Cq_dTaxNvuerfv8s1ZpAJlj0"
+BOT_TOKEN = ""
 
 # Store user tasks globally
 user_tasks = {}
